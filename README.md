@@ -15,7 +15,7 @@
 - 🏆 Smart Delhi Ideathon Finalist'25
 - Reliance Foundation Scholar: Selected among the top 5000 students nationwide
 - 👑 Content & Research Lead @ **AssetMerkle (Web3 Society)**  
-- 🎨 Technical Head @ **SOCH (Art & Writing Society)**
+- 🎨 👥 Leading a tech team of 14 @ **SOCH, IGDTUW (Art society)** to manage creative events & the society website.
 
 ---
 
@@ -38,6 +38,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikitlearn)
+![Google Colab](https://img.shields.io/badge/-Colab-333?style=flat&logo=googlecolab)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+
 
 ---
 
@@ -68,5 +74,6 @@
 
 ---
 
-⭐️ *Let’s build something that leaves a legacy. Drop a ⭐ if you vibe!*
+💌 *Open to collabs, research & building cool things. Slide into my inbox or drop a PR!*
+
 
