@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <i>AI Enthusiast • Researcher • Builder • The IT-Girl Dev 🌟</i>
+  <i>AI Researcher • ML Developer • Solving Real-World Problems 🔬</i>
 </p>
 
 ---
