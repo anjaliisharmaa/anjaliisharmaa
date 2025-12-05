@@ -10,16 +10,16 @@
 🌐 **About Me**
 
 - 🎓 **B.Tech CSE - Artificial Intelligence** @ IGDTUW (2023-2027)  
-- 🔬 **AI Research Intern** at DRDO — building SHAKTI-AI 🧠✨    
+- 🔬 **Former AI Research Intern** at DRDO — built SHAKTI-AI 🧠✨    
 - 📝 Published author: [Deepfake detection research @ ICDSBS’25](https://ieeexplore.ieee.org/document/11031727)  
 - 🏆 Smart Delhi Ideathon Finalist'25
 - Reliance Foundation Scholar: Selected among the top 5000 students nationwide
 - 👑 Content & Research Lead @ **AssetMerkle (Web3 Society)**  
-- 🎨 👥 Leading a tech team of 14 @ **SOCH, IGDTUW (Art society)** to manage creative events & the society website.
+- 🎨 👥 Lead a tech team of 14 @ **SOCH, IGDTUW (Art society)** to manage creative events & the society website.
 
 ---
 
-🚀 **What I'm Working On**
+🚀 **What I have worked on**
 
 - 🧩 **SHAKTI-AI:** Multi-agent system for women’s health & autonomy  
 - 🔍 **Real-Reveal:** Deepfake detection using CNNs  
