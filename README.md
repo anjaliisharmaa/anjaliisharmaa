@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
+<h1 align="center">Hi, I'm Anjali Sharma</h1>
 
 
 <p align="center">
-  <i>AI Researcher • ML Developer • Solving Real-World Problems 🔬</i>
+  <i>Strategy & Consulting @ Accenture | IEEE Published Author | Former AI Intern @ DRDO | IGDTUW ’27</i>
 </p>
 
 ---
 
-🌐 **About Me**
+**About Me**
 
-- 🎓 **B.Tech CSE - Artificial Intelligence** @ IGDTUW (2023-2027)  
+- **B.Tech CSE - Artificial Intelligence** @ IGDTUW (2023-2027)  
 - 🔬 **Former AI Research Intern** at DRDO — built SHAKTI-AI 🧠✨    
 - 📝 Published author: [Deepfake detection research @ ICDSBS’25](https://ieeexplore.ieee.org/document/11031727)  
 - 🏆 Smart Delhi Ideathon Finalist'25
