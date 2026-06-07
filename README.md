@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <i>Strategy & Consulting @ Accenture | IEEE Published Author | Former AI Intern @ DRDO | IGDTUW ’27</i>
+  <i>Strategy & Consulting Intern @ Accenture | IEEE Published Author | Former AI Intern @ DRDO | IGDTUW ’27</i>
 </p>
 
 ---
@@ -38,6 +38,11 @@
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat&logo=supabase)
+![Clerk](https://img.shields.io/badge/-Clerk-333?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
