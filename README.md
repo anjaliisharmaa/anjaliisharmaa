@@ -9,25 +9,30 @@
 
 **About Me**
 
-- **B.Tech CSE - Artificial Intelligence** @ IGDTUW (2023-2027)  
-- 🔬 **Former AI Research Intern** at DRDO — built SHAKTI-AI 🧠✨    
-- 📝 Published author: [Deepfake detection research @ ICDSBS’25](https://ieeexplore.ieee.org/document/11031727)  
-- 🏆 Smart Delhi Ideathon Finalist'25
+- **B.Tech CSE - AI** @ IGDTUW (2023-2027)
+- **Incoming Strategy and Consulting Intern** at Accenture
+- **Former GenAI Intern** at DRDO: built SHAKTI-AI 
+- Published author: [Deepfake detection research @ ICDSBS’25](https://ieeexplore.ieee.org/document/11031727)
+- Flipkart GRiD 7.0 Semi-Finalist
+- Smart Delhi Ideathon Finalist'25
 - Reliance Foundation Scholar: Selected among the top 5000 students nationwide
-- 👑 Content & Research Lead @ **AssetMerkle (Web3 Society)**  
-- 🎨 👥 Lead a tech team of 14 @ **SOCH, IGDTUW (Art society)** to manage creative events & the society website.
+- Former Content & Research Lead @ **AssetMerkle (Web3 Society)**  
+- Former Technical Head @ **SOCH, IGDTUW (Art society)**
 
 ---
 
-🚀 **What I have worked on**
+**What I have worked on**
 
-- 🧩 **SHAKTI-AI:** Multi-agent system for women’s health & autonomy  
-- 🔍 **Real-Reveal:** Deepfake detection using CNNs  
-- 👩‍💻 Grinding **DSA**, mastering **agentic AI**, and building projects that *leave a legacy*.  
-- 💭 Dream: Land a great research internship & publish another paper on SHAKTI-AI 🔬✨
+- **SHAKTI-AI:** Multi-agent system for women’s health & autonomy  
+- **Real-Reveal:** Deepfake detection using CNNs 
 ---
 
-🧰 **Tech Toolbox**
+**Current Focus**
+- Building IT Girl Devs, an interactive machine learning workspace with an integrated Python code editor.
+- Expanding my knowledge in agentic AI and full stack development.
+---
+
+**Tech Toolbox**
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
@@ -47,33 +52,33 @@
 
 ---
 
-📌 **Featured Projects**
+**Featured Projects**
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [**SHAKTI-AI**](https://github.com/anjaliisharmaa/shakti-ai) | 🩺 Multi-agent health assistant for Indian women | LLMs, RAG, Gemini 1.5, Streamlit |
-| [**Real-Reveal**](https://github.com/anjaliisharmaa/real-reveal) | 🕵️‍♀️ Deepfake detection using CNN | Python, TensorFlow |
+| [**IT-Girl Devs**](https://it-girl-devs.vercel.app/) | Interactive machine learning workspace featuring a custom Python code editor | Next.js, FastAPI, Supabase, Clerk, Gemini 1.5 |
+| [**SHAKTI-AI**](https://github.com/anjaliisharmaa/shakti-ai) | Multi-agent health assistantfor maternal and mental health | Python, Streamlit, LangChain, FAISS, RAG |
+| [**Real-Reveal**](https://github.com/anjaliisharmaa/real-reveal) | eepfake detection system classifying images using Convolutional Neural Networks | Python, TensorFlow, CNN |
 
 ---
 
-🎤 **Publications**
+**Publications**
 
-- 📄 *Exploring the Role of Loss Functions in Deepfake Detection*  
+- *Exploring the Role of Loss Functions in Deepfake Detection*  
   [ICDSBS’25 - IEEE Xplore](https://ieeexplore.ieee.org/document/11031727)
 
 ---
 
-📈 **Connect With Me**
+**Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anjali-sharma-159054288/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/anjaliisharmaa15/) 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/anjaliishc8ny/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/anjaliisharmaa) 
 
-📧 *anjaliisharmaa15@gmail.com*
+*anjaliisharmaa15@gmail.com*
 
 ---
 
-💌 *Open to collabs, research & building cool things. Slide into my inbox or drop a PR!*
+*Open to collabs, research & building cool things. Slide into my inbox or drop a PR!*
 
 
