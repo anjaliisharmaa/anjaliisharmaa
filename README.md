@@ -10,7 +10,7 @@
 **About Me**
 
 - **B.Tech CSE - AI** @ IGDTUW (2023-2027)
-- **Strategy and Consulting Intern** at Accenture
+- **Management Consulting Intern** at Accenture
 - **Former GenAI Intern** at DRDO: built SHAKTI-AI 
 - Published author: [Deepfake detection research @ ICDSBS’25](https://ieeexplore.ieee.org/document/11031727)
 - Flipkart GRiD 7.0 Semi-Finalist
